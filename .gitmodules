@@ -1,3 +1,0 @@
-[submodule "dbt_packages/dbt-utils"]
-	path = dbt_packages/dbt-utils
-	url = https://github.com/dbt-labs/dbt-utils.git
